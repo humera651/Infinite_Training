@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\bin\Debug\Statements.exe.config
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\bin\Debug\Statements.exe
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\bin\Debug\Statements.pdb
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\obj\Debug\Statements.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\obj\Debug\Statements.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\obj\Debug\Statements.exe
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\obj\Debug\Statements.pdb
+C:\Users\humeras\Infinite_Training\DotNetTraining\Statements\obj\Debug\Statements.exe.config

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\DemoConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378D3DB9-A10D-4C06-BC3C-ED521DC2E62E}|DemoConsoleApp\\DemoConsoleApp.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\democonsoleapp\\democonsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378D3DB9-A10D-4C06-BC3C-ED521DC2E62E}|DemoConsoleApp\\DemoConsoleApp.csproj|solutionrelative:democonsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\DemoConsoleApp\\DemoConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\DemoConsoleApp\\DemoConsoleApp\\Program.cs",
+              "RelativeToolTip": "DemoConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:12:04.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

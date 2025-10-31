@@ -1,0 +1,16 @@
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe.config
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.pdb
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.exe
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.pdb
+C:\Users\humeras\Infinite_Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\bin\Debug\DemoConsoleApp.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DemoConsoleApp\DemoConsoleApp\obj\Debug\DemoConsoleApp.pdb

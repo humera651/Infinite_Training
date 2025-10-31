@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\bin\Debug\UserInput.exe
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\bin\Debug\UserInput.pdb
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\obj\Debug\UserInput.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\obj\Debug\UserInput.exe
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\obj\Debug\UserInput.pdb
+C:\Users\humeras\Infinite_Training\DotNetTraining\UserInput\obj\Debug\UserInput.exe.config
