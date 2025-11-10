@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\bin\Debug\MultiDimensionalArray.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\MultiDimensionalArray\obj\Debug\MultiDimensionalArray.exe.config

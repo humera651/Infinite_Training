@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\bin\Debug\Assignment10.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\bin\Debug\Assignment10.exe
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\bin\Debug\Assignment10.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\obj\Debug\Assignment10.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\obj\Debug\Assignment10.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\obj\Debug\Assignment10.exe
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\obj\Debug\Assignment10.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Assignment10\obj\Debug\Assignment10.exe.config

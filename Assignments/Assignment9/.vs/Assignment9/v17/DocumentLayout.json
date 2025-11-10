@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD91FA0E-90DD-44F1-81AB-7F4FA5E2E3E0}|Assignment9.csproj|C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD91FA0E-90DD-44F1-81AB-7F4FA5E2E3E0}|Assignment9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD91FA0E-90DD-44F1-81AB-7F4FA5E2E3E0}|Assignment9.csproj|c:\\users\\humeras\\infinite_training\\assignments\\assignment9\\grocerybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD91FA0E-90DD-44F1-81AB-7F4FA5E2E3E0}|Assignment9.csproj|solutionrelative:grocerybilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD91FA0E-90DD-44F1-81AB-7F4FA5E2E3E0}|Assignment9.csproj|C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD91FA0E-90DD-44F1-81AB-7F4FA5E2E3E0}|Assignment9.csproj|solutionrelative:groceryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GroceryBilling.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\GroceryBilling.cs",
+              "RelativeDocumentMoniker": "GroceryBilling.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\GroceryBilling.cs",
+              "RelativeToolTip": "GroceryBilling.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:38:57.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GroceryItem.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\GroceryItem.cs",
+              "RelativeDocumentMoniker": "GroceryItem.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\GroceryItem.cs",
+              "RelativeToolTip": "GroceryItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:34:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\Assignment9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:29:01.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

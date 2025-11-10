@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\static_nonstatic_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:static_nonstatic_function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\paramsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:paramsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\outwithdiscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:outwithdiscard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\callbyvalueref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:callbyvalueref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\functionwithreturnwithargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:functionwithreturnwithargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\functionwithoutreturnwithargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:functionwithoutreturnwithargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\functionwithreturnwithoutargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:functionwithreturnwithoutargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\functiontypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD138157-65E0-4B0F-8B14-3BD0A250A322}|FunctionTypes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Static_NonStatic_Function.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\Static_NonStatic_Function.cs",
+              "RelativeDocumentMoniker": "Static_NonStatic_Function.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\Static_NonStatic_Function.cs",
+              "RelativeToolTip": "Static_NonStatic_Function.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:36:22.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParamsDemo.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\ParamsDemo.cs",
+              "RelativeDocumentMoniker": "ParamsDemo.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\ParamsDemo.cs",
+              "RelativeToolTip": "ParamsDemo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T07:13:44.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutWithDiscard.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\OutWithDiscard.cs",
+              "RelativeDocumentMoniker": "OutWithDiscard.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\OutWithDiscard.cs",
+              "RelativeToolTip": "OutWithDiscard.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:43:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallByValueRef.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\CallByValueRef.cs",
+              "RelativeDocumentMoniker": "CallByValueRef.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\CallByValueRef.cs",
+              "RelativeToolTip": "CallByValueRef.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T06:30:17.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionWithReturnWithArgs.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\FunctionWithReturnWithArgs.cs",
+              "RelativeDocumentMoniker": "FunctionWithReturnWithArgs.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\FunctionWithReturnWithArgs.cs",
+              "RelativeToolTip": "FunctionWithReturnWithArgs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:23:41.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunctionWithoutReturnWithArgs.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\FunctionWithoutReturnWithArgs.cs",
+              "RelativeDocumentMoniker": "FunctionWithoutReturnWithArgs.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\FunctionWithoutReturnWithArgs.cs",
+              "RelativeToolTip": "FunctionWithoutReturnWithArgs.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:16:13.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionWithReturnWithoutArgs.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\FunctionWithReturnWithoutArgs.cs",
+              "RelativeDocumentMoniker": "FunctionWithReturnWithoutArgs.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\FunctionWithReturnWithoutArgs.cs",
+              "RelativeToolTip": "FunctionWithReturnWithoutArgs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:51:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\FunctionTypes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:47:08.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

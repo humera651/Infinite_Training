@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\bin\Debug\Assignment8.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\bin\Debug\Assignment8.exe
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\bin\Debug\Assignment8.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\obj\Debug\Assignment8.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\obj\Debug\Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\obj\Debug\Assignment8.exe
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\obj\Debug\Assignment8.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Assignment8\obj\Debug\Assignment8.exe.config

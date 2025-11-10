@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\bin\Debug\FunctionTypes.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\bin\Debug\FunctionTypes.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\bin\Debug\FunctionTypes.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\obj\Debug\FunctionTypes.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\obj\Debug\FunctionTypes.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\obj\Debug\FunctionTypes.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\obj\Debug\FunctionTypes.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionTypes\obj\Debug\FunctionTypes.exe.config

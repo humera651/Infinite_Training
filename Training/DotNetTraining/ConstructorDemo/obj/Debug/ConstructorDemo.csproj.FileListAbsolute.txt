@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\bin\Debug\ConstructorDemo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\bin\Debug\ConstructorDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\bin\Debug\ConstructorDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\obj\Debug\ConstructorDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\obj\Debug\ConstructorDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ConstructorDemo\obj\Debug\ConstructorDemo.exe.config
