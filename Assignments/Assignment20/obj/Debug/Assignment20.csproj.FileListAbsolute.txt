@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\bin\Debug\Assignment20.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\bin\Debug\Assignment20.exe
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\bin\Debug\Assignment20.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\obj\Debug\Assignment20.exe
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\obj\Debug\Assignment20.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Assignment20\obj\Debug\Assignment20.exe.config

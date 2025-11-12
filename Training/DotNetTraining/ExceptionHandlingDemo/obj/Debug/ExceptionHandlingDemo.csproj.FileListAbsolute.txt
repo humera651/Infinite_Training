@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\bin\Debug\ExceptionHandlingDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ExceptionHandlingDemo\obj\Debug\ExceptionHandlingDemo.exe.config
