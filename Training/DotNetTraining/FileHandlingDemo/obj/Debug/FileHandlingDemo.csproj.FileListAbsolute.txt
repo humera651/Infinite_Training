@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\bin\Debug\FileHandlingDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\bin\Debug\FileHandlingDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\obj\Debug\FileHandlingDemo.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\obj\Debug\FileHandlingDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FileHandlingDemo\obj\Debug\FileHandlingDemo.exe.config

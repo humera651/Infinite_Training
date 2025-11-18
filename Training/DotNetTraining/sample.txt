@@ -1,0 +1,3 @@
+Hello, world!
+This is a sample text file
+Appending a new line to the file
