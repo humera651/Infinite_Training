@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\bin\Debug\Day2Assignment1.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\bin\Debug\Day2Assignment1.exe
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\bin\Debug\Day2Assignment1.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\obj\Debug\Day2Assignment1.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\obj\Debug\Day2Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\obj\Debug\Day2Assignment1.exe
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\obj\Debug\Day2Assignment1.pdb
+C:\Users\humeras\Infinite_Training\Assignments\Day2Assignment1\obj\Debug\Day2Assignment1.exe.config

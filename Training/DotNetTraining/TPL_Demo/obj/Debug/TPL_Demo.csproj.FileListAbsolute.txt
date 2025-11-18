@@ -1,0 +1,11 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\bin\Debug\TPL_Demo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\bin\Debug\TPL_Demo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\bin\Debug\TPL_Demo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\obj\Debug\TPL_Demo.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\obj\Debug\TPL_Demo.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\obj\Debug\TPL_Demo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\obj\Debug\TPL_Demo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\obj\Debug\TPL_Demo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\bin\Debug\ClassLibrary1.dll
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\bin\Debug\ClassLibrary1.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\TPL_Demo\obj\Debug\TPL_Demo.csproj.Up2Date
