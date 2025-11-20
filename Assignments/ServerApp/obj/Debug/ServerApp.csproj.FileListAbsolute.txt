@@ -1,0 +1,13 @@
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\bin\Debug\RemotingLib.dll
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\bin\Debug\Day3Assignment1.dll
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\bin\Debug\RemotingLib.pdb
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\bin\Debug\Day3Assignment1.pdb
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\obj\Debug\ServerApp.csproj.Up2Date
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\humeras\Infinite_Training\Assignments\ServerApp\obj\Debug\ServerApp.exe.config

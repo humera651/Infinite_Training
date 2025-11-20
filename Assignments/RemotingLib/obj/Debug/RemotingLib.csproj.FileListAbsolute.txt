@@ -1,0 +1,9 @@
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\bin\Debug\RemotingLib.dll
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\bin\Debug\RemotingLib.pdb
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\bin\Debug\Day3Assignment1.dll
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\bin\Debug\Day3Assignment1.pdb
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\obj\Debug\RemotingLib.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\obj\Debug\RemotingLib.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\obj\Debug\Remoting.F9DF2369.Up2Date
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\obj\Debug\RemotingLib.dll
+C:\Users\humeras\Infinite_Training\Assignments\RemotingLib\obj\Debug\RemotingLib.pdb

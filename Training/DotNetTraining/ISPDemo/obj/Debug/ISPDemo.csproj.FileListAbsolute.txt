@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\bin\Debug\ISPDemo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\bin\Debug\ISPDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\bin\Debug\ISPDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\obj\Debug\ISPDemo.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\obj\Debug\ISPDemo.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\obj\Debug\ISPDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\obj\Debug\ISPDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ISPDemo\obj\Debug\ISPDemo.exe.config

@@ -1,0 +1,6 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingTrn\bin\Debug\RemotingTrn.dll
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingTrn\bin\Debug\RemotingTrn.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingTrn\obj\Debug\RemotingTrn.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingTrn\obj\Debug\RemotingTrn.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingTrn\obj\Debug\RemotingTrn.dll
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingTrn\obj\Debug\RemotingTrn.pdb

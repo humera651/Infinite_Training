@@ -1,0 +1,13 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\bin\Debug\ServerApp.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\bin\Debug\ServerApp.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\bin\Debug\ServerApp.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\bin\Debug\RemotingLib.dll
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\bin\Debug\RemotingTrn.dll
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\bin\Debug\RemotingLib.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\bin\Debug\RemotingTrn.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\obj\Debug\ServerApp.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\obj\Debug\ServerApp.csproj.Up2Date
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\obj\Debug\ServerApp.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ServerApp\obj\Debug\ServerApp.exe.config
