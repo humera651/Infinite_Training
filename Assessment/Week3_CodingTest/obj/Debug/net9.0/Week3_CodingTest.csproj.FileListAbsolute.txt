@@ -1,0 +1,12 @@
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\bin\Debug\net9.0\Week3_CodingTest.deps.json
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\bin\Debug\net9.0\Week3_CodingTest.dll
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\bin\Debug\net9.0\Week3_CodingTest.pdb
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\Week3_CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\Week3_CodingTest.AssemblyInfoInputs.cache
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\Week3_CodingTest.AssemblyInfo.cs
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\Week3_CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\Week3_CodingTest.sourcelink.json
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\Week3_CodingTest.dll
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\refint\Week3_CodingTest.dll
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\Week3_CodingTest.pdb
+C:\Users\humeras\Infinite_Training\Assessment\Week3_CodingTest\obj\Debug\net9.0\ref\Week3_CodingTest.dll
