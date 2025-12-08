@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\bin\Debug\AdoNetAssignment.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\bin\Debug\AdoNetAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\bin\Debug\AdoNetAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\obj\Debug\AdoNetAssignment.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\obj\Debug\AdoNetAssignment.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\obj\Debug\AdoNetAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\obj\Debug\AdoNetAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\AdoNetAssignment\obj\Debug\AdoNetAssignment.exe.config

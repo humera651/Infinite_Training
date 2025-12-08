@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\AdoNetAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAD726F-5F57-473D-B121-4212EA5B5AC4}|AdoNetAssignment.csproj|c:\\users\\humeras\\infinite_training\\assignments\\adonetassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAD726F-5F57-473D-B121-4212EA5B5AC4}|AdoNetAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FAD726F-5F57-473D-B121-4212EA5B5AC4}|AdoNetAssignment.csproj|C:\\Users\\humeras\\Infinite_Training\\Assignments\\AdoNetAssignment\\connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FAD726F-5F57-473D-B121-4212EA5B5AC4}|AdoNetAssignment.csproj|solutionrelative:connectedarchitecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectedArchitecture.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\AdoNetAssignment\\ConnectedArchitecture.cs",
+              "RelativeDocumentMoniker": "ConnectedArchitecture.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\AdoNetAssignment\\ConnectedArchitecture.cs*",
+              "RelativeToolTip": "ConnectedArchitecture.cs*",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAuwGwBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:12:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\AdoNetAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Assignments\\AdoNetAssignment\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T10:12:24.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
