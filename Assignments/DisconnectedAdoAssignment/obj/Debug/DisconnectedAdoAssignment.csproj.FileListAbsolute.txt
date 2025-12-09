@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\bin\Debug\DisconnectedAdoAssignment.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\bin\Debug\DisconnectedAdoAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\bin\Debug\DisconnectedAdoAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\obj\Debug\DisconnectedAdoAssignment.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\obj\Debug\DisconnectedAdoAssignment.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\obj\Debug\DisconnectedAdoAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\obj\Debug\DisconnectedAdoAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\DisconnectedAdoAssignment\obj\Debug\DisconnectedAdoAssignment.exe.config

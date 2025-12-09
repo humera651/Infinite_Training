@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{73A1A4A2-3472-4646-8A24-DB7A6B1F6145}</ProjectGuid>
+    <ProjectGuid>{59372990-DD0C-4C92-92F6-8D46D4C500F9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>adonetdemo</RootNamespace>
-    <AssemblyName>adonetdemo</AssemblyName>
+    <RootNamespace>DisconnectedAdoAssignment</RootNamespace>
+    <AssemblyName>DisconnectedAdoAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConnectionCls.cs" />
     <Compile Include="DisconnectedCls.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

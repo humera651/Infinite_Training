@@ -10,13 +10,22 @@ namespace adonetdemo
     {
         static void Main(string[] args)
         {
-            ConnectionCls connectionCls = new ConnectionCls();
+            //ConnectionCls connectionCls = new ConnectionCls();
             //connectionCls.ShowEmployee();
             //connectionCls.AddEmployee();
             //connectionCls.DeleteEmployee();
             //connectionCls.UpdateEmployee();
             //connectionCls.Showprocedure();
-            connectionCls.EmpTransaction();
+            //connectionCls.EmpTransaction();
+
+            DisconnectedCls disconnectedCls = new DisconnectedCls();
+            disconnectedCls.ShowAllEmployee();
+            //disconnectedCls.SearchEmployee();
+            //disconnectedCls.AddEmployee();
+            //disconnectedCls.DeleteEmployee();
+            //disconnectedCls.UpdateEmployee();
+            //disconnectedCls.FilterEmployee();
+            disconnectedCls.StoreinXML();
 
             Console.ReadLine();
         }
