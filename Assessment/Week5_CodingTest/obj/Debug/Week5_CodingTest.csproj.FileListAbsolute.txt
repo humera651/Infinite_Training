@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\bin\Debug\Week5_CodingTest.exe.config
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\bin\Debug\Week5_CodingTest.exe
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\bin\Debug\Week5_CodingTest.pdb
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\obj\Debug\Week5_CodingTest.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\obj\Debug\Week5_CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\obj\Debug\Week5_CodingTest.exe
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\obj\Debug\Week5_CodingTest.pdb
+C:\Users\humeras\Infinite_Training\Assessment\Week5_CodingTest\obj\Debug\Week5_CodingTest.exe.config

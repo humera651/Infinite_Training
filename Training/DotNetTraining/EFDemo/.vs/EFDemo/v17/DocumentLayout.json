@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFCC7CA-3758-4613-AB6B-41DD684AAB61}|EFDemo.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\efdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFCC7CA-3758-4613-AB6B-41DD684AAB61}|EFDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFCC7CA-3758-4613-AB6B-41DD684AAB61}|EFDemo.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\efdemo\\cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFCC7CA-3758-4613-AB6B-41DD684AAB61}|EFDemo.csproj|solutionrelative:cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFCC7CA-3758-4613-AB6B-41DD684AAB61}|EFDemo.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\efdemo\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1DFCC7CA-3758-4613-AB6B-41DD684AAB61}|EFDemo.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFDemo\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFDemo\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-12T07:25:13.335Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRUDDEMO.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFDemo\\CRUDDEMO.cs",
+              "RelativeDocumentMoniker": "CRUDDEMO.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFDemo\\CRUDDEMO.cs",
+              "RelativeToolTip": "CRUDDEMO.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:16:04.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T07:11:16.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
