@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\bin\Debug\LinqDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\obj\Debug\LinqDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\obj\Debug\LinqDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LinqDemo\obj\Debug\LinqDemo.exe.config

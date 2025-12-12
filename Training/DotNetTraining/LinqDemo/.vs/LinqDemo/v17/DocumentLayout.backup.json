@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\LinqDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{627B3A70-6C7D-4BDC-9534-7DBB2BECA425}|LinqDemo.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\linqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627B3A70-6C7D-4BDC-9534-7DBB2BECA425}|LinqDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627B3A70-6C7D-4BDC-9534-7DBB2BECA425}|LinqDemo.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\linqdemo\\linqdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627B3A70-6C7D-4BDC-9534-7DBB2BECA425}|LinqDemo.csproj|solutionrelative:linqdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627B3A70-6C7D-4BDC-9534-7DBB2BECA425}|LinqDemo.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\linqdemo\\empdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627B3A70-6C7D-4BDC-9534-7DBB2BECA425}|LinqDemo.csproj|solutionrelative:empdet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinqDEMO.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\LinqDemo\\LinqDEMO.cs",
+              "RelativeDocumentMoniker": "LinqDEMO.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\LinqDemo\\LinqDEMO.cs",
+              "RelativeToolTip": "LinqDEMO.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAuwOIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:09:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "empdet.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\LinqDemo\\empdet.cs",
+              "RelativeDocumentMoniker": "empdet.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\LinqDemo\\empdet.cs",
+              "RelativeToolTip": "empdet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:08:07.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\LinqDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\LinqDemo\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:07:32.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

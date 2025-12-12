@@ -1,0 +1,8 @@
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\bin\Debug\LinqAssignment.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\bin\Debug\LinqAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\bin\Debug\LinqAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\obj\Debug\LinqAssignment.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\obj\Debug\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\obj\Debug\LinqAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\obj\Debug\LinqAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\LinqAssignment\obj\Debug\LinqAssignment.exe.config
