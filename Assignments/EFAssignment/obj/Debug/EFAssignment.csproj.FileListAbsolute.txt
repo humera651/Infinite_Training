@@ -1,0 +1,13 @@
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\bin\Debug\EFAssignment.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\bin\Debug\EFAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\bin\Debug\EFAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\bin\Debug\EntityFramework.dll
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\bin\Debug\EntityFramework.xml
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\obj\Debug\EFAssignment.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\obj\Debug\EFAssignment.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\obj\Debug\EFAssign.445E28FD.Up2Date
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\obj\Debug\EFAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\obj\Debug\EFAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\EFAssignment\obj\Debug\EFAssignment.exe.config
