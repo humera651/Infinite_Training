@@ -1,0 +1,13 @@
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.exe.config
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\bin\Debug\EFCodeFirstDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\obj\Debug\EFCodeFi.A3952F21.Up2Date
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.exe
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.pdb
+C:\Users\humeras\Infinite_Training\Training\DotNetTraining\EFCodeFirstDemo\obj\Debug\EFCodeFirstDemo.exe.config

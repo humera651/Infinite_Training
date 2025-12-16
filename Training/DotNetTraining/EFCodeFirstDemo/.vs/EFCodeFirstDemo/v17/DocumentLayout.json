@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|solutionrelative:cruddemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|solutionrelative:ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|solutionrelative:model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\efcodefirstdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCB6E9E-0A9B-468C-BC31-28120B25FDD6}|EFCodeFirstDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-15T07:17:41.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDDEMO.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\CRUDDEMO.cs",
+              "RelativeDocumentMoniker": "CRUDDEMO.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\CRUDDEMO.cs",
+              "RelativeToolTip": "CRUDDEMO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:15:40.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPL.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\IPL.cs",
+              "RelativeDocumentMoniker": "IPL.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\IPL.cs",
+              "RelativeToolTip": "IPL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:07:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\Model1.cs",
+              "RelativeDocumentMoniker": "Model1.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\Model1.cs",
+              "RelativeToolTip": "Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:04:56.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\EFCodeFirstDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:04:09.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

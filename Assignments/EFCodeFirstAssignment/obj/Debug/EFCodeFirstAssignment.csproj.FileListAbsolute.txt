@@ -1,0 +1,13 @@
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\bin\Debug\EFCodeFirstAssignment.exe.config
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\bin\Debug\EFCodeFirstAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\bin\Debug\EFCodeFirstAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\bin\Debug\EntityFramework.dll
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\bin\Debug\EntityFramework.xml
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.csproj.AssemblyReference.cache
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\obj\Debug\EFCodeFi.6D031EBC.Up2Date
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.exe
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.pdb
+C:\Users\humeras\Infinite_Training\Assignments\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.exe.config
