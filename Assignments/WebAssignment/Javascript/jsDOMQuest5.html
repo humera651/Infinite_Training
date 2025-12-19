@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3>Change Image Automatically</h3>
+<img id="img" src="girl.webp" width="250" height="250">
+<script>
+
+let flag = true;
+
+setInterval(function () {
+    if (flag) {
+        document.getElementById("img").src = "boy.webp";
+    } else {
+        document.getElementById("img").src = "girl.webp";
+    }
+    flag = !flag;
+}, 2000);
+</script>
+</body>
+</html>
+ 

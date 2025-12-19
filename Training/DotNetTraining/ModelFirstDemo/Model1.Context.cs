@@ -13,10 +13,10 @@ namespace ModelFirstDemo
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class Model1Container : DbContext
+    public partial class Model1Container1 : DbContext
     {
-        public Model1Container()
-            : base("name=Model1Container")
+        public Model1Container1()
+            : base("name=Model1Container1")
         {
         }
     

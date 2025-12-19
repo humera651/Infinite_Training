@@ -10,7 +10,7 @@
     <Property Name="PizzaId" Type="int" Nullable="false" />
     <Property Name="PizzaName" Type="varchar" Nullable="false" MaxLength="30" />
     <Property Name="Description" Type="varchar" Nullable="false" MaxLength="50" />
-    <Property Name="Type" Type="varchar" Nullable="false" MaxLength="30" />
     <Property Name="Price" Type="float" Nullable="false" />
+    <Property Name="Type" Type="varchar" Nullable="false" MaxLength="30" />
   </EntityType>
 </Schema>

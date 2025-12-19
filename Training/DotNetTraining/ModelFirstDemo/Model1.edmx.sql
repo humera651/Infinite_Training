@@ -2,7 +2,7 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 12/16/2025 11:16:40
+-- Date Created: 12/16/2025 21:02:35
 -- Generated from EDMX file: C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ModelFirstDemo\Model1.edmx
 -- --------------------------------------------------
 
@@ -32,8 +32,8 @@ CREATE TABLE [dbo].[Pizzas] (
     [PizzaId] int  NOT NULL,
     [PizzaName] varchar(30)  NOT NULL,
     [Description] varchar(50)  NOT NULL,
-    [Type] varchar(30)  NOT NULL,
-    [Price] float  NOT NULL
+    [Price] float  NOT NULL,
+    [Type] varchar(30)  NOT NULL
 );
 GO
 

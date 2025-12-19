@@ -17,7 +17,7 @@ namespace ModelFirstDemo
         public int PizzaId { get; set; }
         public string PizzaName { get; set; }
         public string Description { get; set; }
-        public string Type { get; set; }
         public double Price { get; set; }
+        public string Type { get; set; }
     }
 }

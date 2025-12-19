@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Login Validation</title>
+</head>
+<body>
+<h3>Login Page</h3>
+Username:
+<input type="text" id="username"><br><br>
+Password:
+<input type="password" id="password"><br><br>
+<button onclick="validate()">Login</button>
+<script>
+function validate() {
+   let user = document.getElementById("username");
+   let pass = document.getElementById("password");
+   if (user.value === "admin" && pass.value === "india") {
+       window.location = "home.html";
+   } else {
+       user.style.backgroundColor = "red";
+       pass.style.backgroundColor = "red";
+       alert("Invalid Username or Password");
+   }
+}
+</script>
+</body>
+</html>
