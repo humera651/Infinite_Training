@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery-3.7.1.min.js"></script>
+</head>
+<body>
+<h1>Heading1</h1>
+<h1>Heading2</h1>
+<div>This is div1</div>
+<div>This is div2</div>
+<p>this is paragraph1</p>
+<p>this is paragraph2</p>
+<button id="count">Count</button>
+<script>
+
+$("#count").click(function () {
+    alert(
+        "H1: " + $("h1").length +
+        "\nDiv: " + $("div").length +
+        "\nParagraphs: " + $("p").length
+    );
+});
+</script>
+</body>
+</html>
+ 
