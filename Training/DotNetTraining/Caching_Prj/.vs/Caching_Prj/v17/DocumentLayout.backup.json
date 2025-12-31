@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{B5815EC5-ADA8-468B-A03A-D7EFD91639B5}|Caching_Prj.csproj|solutionrelative:cacheform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5815EC5-ADA8-468B-A03A-D7EFD91639B5}|Caching_Prj.csproj|c:\\users\\humeras\\infinite_training\\training\\dotnettraining\\caching_prj\\cacheform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5815EC5-ADA8-468B-A03A-D7EFD91639B5}|Caching_Prj.csproj|C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\Caching_Prj\\cacheform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5815EC5-ADA8-468B-A03A-D7EFD91639B5}|Caching_Prj.csproj|solutionrelative:cacheform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,9 +30,9 @@
               "Title": "CacheForm.aspx.cs",
               "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\Caching_Prj\\CacheForm.aspx.cs",
               "RelativeDocumentMoniker": "CacheForm.aspx.cs",
-              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\Caching_Prj\\CacheForm.aspx.cs",
-              "RelativeToolTip": "CacheForm.aspx.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\Caching_Prj\\CacheForm.aspx.cs*",
+              "RelativeToolTip": "CacheForm.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T04:24:39.859Z",
               "EditorCaption": ""
@@ -43,8 +43,8 @@
               "Title": "CacheForm.aspx",
               "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\Caching_Prj\\CacheForm.aspx",
               "RelativeDocumentMoniker": "CacheForm.aspx",
-              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\Caching_Prj\\CacheForm.aspx",
-              "RelativeToolTip": "CacheForm.aspx",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Training\\DotNetTraining\\Caching_Prj\\CacheForm.aspx*",
+              "RelativeToolTip": "CacheForm.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-26T04:23:44.021Z",

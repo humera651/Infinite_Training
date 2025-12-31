@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CacheForm.aspx.cs" Inherits="Caching_Prj.CacheForm" %>
-
+<%--<%@ OutputCache Duration="30" VaryByParam="None" Location="Client" %>--%>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -9,13 +9,15 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Select a Product  : &nbsp;&nbsp;&nbsp;
+
+        </div>
+        Select a Product  : &nbsp;&nbsp;&nbsp;
         <asp:DropDownList ID="DDL" runat="server" OnSelectedIndexChanged="DDL_SelectedIndexChanged" AutoPostBack="True">
             <asp:ListItem Text="All" Value="All"></asp:ListItem>
              <asp:ListItem Text="Laptops" Value="Laptops"></asp:ListItem>
-             <asp:ListItem Text="Desktops" Value="Desktops"></asp:ListItem>
-             <asp:ListItem Text="iPhones" Value="iPhones"></asp:ListItem>
-             <asp:ListItem Text="LED TV" Value="Led TV"></asp:ListItem>
+             <asp:ListItem Text="Desktops" Value="Desktop"></asp:ListItem>
+             <asp:ListItem Text="iPhones" Value="iPhone"></asp:ListItem>
+             <asp:ListItem Text="LED TV" Value="LED TV"></asp:ListItem>
         </asp:DropDownList>
        
         <asp:GridView ID="GridView1" runat="server" BackColor="White" BorderColor="#CC9966" BorderStyle="None" BorderWidth="1px" CellPadding="4">
@@ -37,7 +39,10 @@
 
         Client Time :
         <br /> <br />
-        </div>
+
+        <script>
+            document.write(Date());
+        </script>
     </form>
 </body>
 </html>
