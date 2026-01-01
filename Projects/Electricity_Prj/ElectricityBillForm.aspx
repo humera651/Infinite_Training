@@ -1,7 +1,9 @@
 ﻿<%@ Page Language="C#" MasterPageFile="~/Site1.master" AutoEventWireup="true" CodeBehind="ElectricityBillForm.aspx.cs" Inherits="Electricity_Prj.ElectricityBillForm" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-        <div>
+        <div class="form-container">
+        <div class="form-ebox">
+            <h3>Add Electricity Bill</h3>
             Number of Bills:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <asp:TextBox ID="txtCount" runat="server" />
 <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Number of Bills cannot be blank" ControlToValidate="txtCount" ForeColor="Red" ValidationGroup="elecbill" >*</asp:RequiredFieldValidator>
@@ -20,21 +22,21 @@ Units Consumed:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <asp:TextBox ID="txtUnits" runat="server" />
 <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ErrorMessage="Units Consumed cannot be blank" ControlToValidate="txtUnits" ForeColor="Red" ValidationGroup="elecbill" >*</asp:RequiredFieldValidator>
 <br/><br/>
-<asp:Button ID="btnAdd" runat="server" Text="Add Bill" OnClick="btnAdd_Click" ValidationGroup="elecbill" />
+<asp:Button ID="btnAdd" runat="server" Text="Add Bill" CssClass="action-btn" OnClick="btnAdd_Click" ValidationGroup="elecbill" />
             <br />
             <br/>
 
 <asp:Label ID="lblOutput" runat="server" /><br/>
 <asp:ValidationSummary ID="ValidationSummary1" runat="server" ForeColor="Red" ValidationGroup="elecbill" />
-
-<hr /><br />
-
+</div>
+<div class="form-ebox">
+            <h3>View Last Bills</h3>
 Last N Bills to Retrieve:
 <asp:TextBox ID="txtLast" runat="server" />
 <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" ErrorMessage="Please enter Last N Bills to Retrieve" ControlToValidate="txtLast" ForeColor="Red" ValidationGroup="elecbilllast" >*</asp:RequiredFieldValidator>
 <asp:RegularExpressionValidator ID="RegularExpressionValidator5" runat="server" ControlToValidate="txtLast" ValidationExpression="^\d+$" ErrorMessage="Last N Bills must be numeric" ForeColor="Red" ValidationGroup="elecbilllast">*</asp:RegularExpressionValidator>
 <br/><br/>
-<asp:Button ID="btnShow" runat="server" Text="Show Bills" OnClick="btnShow_Click" ValidationGroup="elecbilllast"/>
+<asp:Button ID="btnShow" runat="server" Text="Show Bills" CssClass="action-btn" OnClick="btnShow_Click" ValidationGroup="elecbilllast"/>
             <br />
             <br/>
 <asp:ValidationSummary ID="ValidationSummary2" runat="server" ForeColor="Red" ValidationGroup="elecbilllast" />
@@ -52,4 +54,5 @@ Last N Bills to Retrieve:
     <SortedDescendingHeaderStyle BackColor="#3E3277" />
             </asp:GridView>
         </div>
+            </div>
 </asp:Content>
