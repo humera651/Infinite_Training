@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using FirstMVC.Models;
 
 namespace FirstMVC.Controllers
 {
@@ -37,6 +38,7 @@ namespace FirstMVC.Controllers
 
         //4. emptyresult
 
+        [NonAction]
         public EmptyResult EmptyMethod()
         {
             int amt = 45000;
@@ -52,8 +54,35 @@ namespace FirstMVC.Controllers
 
             return RedirectToAction("index", "home"); //redirecting to other action method
                                                       //of different controller
+        }
+
+        //6. json result
+        public JsonResult JsonMethod()
+        {
+            Employee emp = new Employee() { ID = 101, Name = "Sairam", Age = 22 };
+
+            return Json(emp, JsonRequestBehavior.AllowGet);
+        }
+
+        //to check if the tempdata values are available here from the previous controllers multiple requests
+        public ActionResult Test_TempData_across_controllers()
+        {
+            TempData.Keep();
+            return View(TempData["stores"]);
+        }
 
 
+        //this action method is to test the tempdata values being made
+        //available even after traversing many requests, and without redirection
+        public ActionResult CheckTempdata()
+        {
+            TempData.Keep();
+            return View(TempData["stores"]);
+        }
+
+        public ActionResult TestColoursRedirect()
+        {
+            return View(TempData["colours"]);
         }
     }
 }
