@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Log Message On Click Of A Button</h1>
+
+<button onclick="logMessage()">Click Here</button>
+
+<p id="msg"></p>
+
+<script>
+function logMessage() {
+  document.getElementById("msg").innerHTML = "Button clicked";
+  console.log("Button clicked");
+}
+</script>
+
+</body>
+</html>

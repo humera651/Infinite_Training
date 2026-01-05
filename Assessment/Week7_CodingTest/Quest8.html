@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Appending p element</h1>
+
+<input id="place" placeholder="Type some place and Enter">
+
+<script src="jquery-3.7.1.min.js"></script>
+
+<script>
+$("#place").on("change", function () {
+  var p = document.getElementById("place").value;
+  $("body").append("<p>Your place is: " + p + "</p>");
+});
+</script>
+
+</body>
+</html>
