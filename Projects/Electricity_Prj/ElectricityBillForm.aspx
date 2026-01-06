@@ -10,7 +10,7 @@
 <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="txtCount" ValidationExpression="^\d+$" ErrorMessage="Number of Bills must be numeric" ForeColor="Red" ValidationGroup="elecbill">*</asp:RegularExpressionValidator>
 <br/><br/>
 Consumer Number:&nbsp;&nbsp;
-<asp:TextBox ID="txtNo" runat="server" />
+<asp:TextBox ID="txtNo" runat="server" AutoPostBack="true" OnTextChanged="txtNo_TextChanged" />
 <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Consumer Number cannot be blank" ControlToValidate="txtNo" ForeColor="Red" ValidationGroup="elecbill" >*</asp:RequiredFieldValidator>
 <br/><br/>
 Consumer Name:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

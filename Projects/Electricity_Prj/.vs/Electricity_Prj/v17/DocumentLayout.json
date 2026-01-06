@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|solutionrelative:electricitybillform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|c:\\users\\humeras\\infinite_training\\projects\\electricity_prj\\electricitybillform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\electricitybillform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|solutionrelative:electricitybillform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|solutionrelative:electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|c:\\users\\humeras\\infinite_training\\projects\\electricity_prj\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AC3DEBA1-6286-4048-8BD3-10C937B5EE03}|Electricity_Prj.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "ElectricityBoard.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\ElectricityBoard.cs",
+              "RelativeToolTip": "ElectricityBoard.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAjwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T16:17:58.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "ElectricityBillForm.aspx.cs",
               "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\ElectricityBillForm.aspx.cs",
               "RelativeToolTip": "ElectricityBillForm.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T04:11:23.884Z",
               "EditorCaption": ""
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.aspx",
               "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\Login.aspx",
               "RelativeDocumentMoniker": "Login.aspx",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Projects\\Electricity_Prj\\Login.aspx.cs",
               "RelativeDocumentMoniker": "Login.aspx.cs",

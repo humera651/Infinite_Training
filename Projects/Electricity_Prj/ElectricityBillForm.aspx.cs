@@ -68,5 +68,36 @@ namespace Electricity_Prj
             gvBills.DataSource = electricityBoard.Generate_N_BillDetails(n);
             gvBills.DataBind();
         }
+
+        protected void txtNo_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                ElectricityBill bill = new ElectricityBill();
+                bill.ConsumerNumber = txtNo.Text.Trim(); 
+
+                string name = electricityBoard.GetConsumerName(bill.ConsumerNumber);
+
+                if (name != "")
+                {
+                    txtName.Text = name;
+                    txtName.ReadOnly = true;
+                    lblOutput.Text = "";
+                }
+                else
+                {
+                    txtName.Text = "";
+                    lblOutput.Text = "Consumer number not found";
+                    txtNo.Focus();
+                }
+            }
+            catch (FormatException ex)
+            {
+                txtName.Text = "";
+                lblOutput.Text = ex.Message;
+                txtNo.Focus();
+            }
+        }
+
     }
 }
