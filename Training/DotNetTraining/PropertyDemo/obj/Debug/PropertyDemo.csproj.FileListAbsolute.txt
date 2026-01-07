@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\bin\Debug\PropertyDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\bin\Debug\PropertyDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\bin\Debug\PropertyDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\obj\Debug\PropertyDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\obj\Debug\PropertyDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\obj\Debug\PropertyDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\obj\Debug\PropertyDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\PropertyDemo\obj\Debug\PropertyDemo.exe.config

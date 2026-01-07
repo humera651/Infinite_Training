@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\bin\Debug\ClassObject.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\bin\Debug\ClassObject.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\bin\Debug\ClassObject.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\obj\Debug\ClassObjectMethods.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\obj\Debug\ClassObject.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\obj\Debug\ClassObjectMethods.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\obj\Debug\ClassObject.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\ClassObject\obj\Debug\ClassObject.pdb

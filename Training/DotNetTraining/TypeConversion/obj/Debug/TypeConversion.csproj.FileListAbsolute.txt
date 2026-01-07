@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\bin\Debug\TypeConversion.exe.config
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\bin\Debug\TypeConversion.exe
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\bin\Debug\TypeConversion.pdb
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\obj\Debug\TypeConversion.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\obj\Debug\TypeConversion.exe
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\obj\Debug\TypeConversion.pdb
-C:\Users\humeras\Infinite_Training\DotNetTraining\TypeConversion\obj\Debug\TypeConversion.exe.config

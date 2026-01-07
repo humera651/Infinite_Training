@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\bin\Debug\Inheritance.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\bin\Debug\Inheritance.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\bin\Debug\Inheritance.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\obj\Debug\Inheritance.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\obj\Debug\Inheritance.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Inheritance\obj\Debug\Inheritance.exe.config

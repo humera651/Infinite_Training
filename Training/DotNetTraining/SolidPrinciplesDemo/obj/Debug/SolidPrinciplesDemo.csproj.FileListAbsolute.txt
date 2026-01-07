@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.exe.config

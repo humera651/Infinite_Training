@@ -1,7 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionOverriding\bin\Debug\FunctionOverriding.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionOverriding\bin\Debug\FunctionOverriding.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionOverriding\bin\Debug\FunctionOverriding.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionOverriding\obj\Debug\FunctionOverriding.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionOverriding\obj\Debug\FunctionOverriding.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionOverriding\obj\Debug\FunctionOverriding.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\FunctionOverriding\obj\Debug\FunctionOverriding.pdb

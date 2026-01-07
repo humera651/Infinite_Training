@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\bin\Debug\OCPDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\bin\Debug\OCPDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\bin\Debug\OCPDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\obj\Debug\OCPDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\obj\Debug\OCPDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\obj\Debug\OCPDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\obj\Debug\OCPDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\OCPDemo\obj\Debug\OCPDemo.exe.config

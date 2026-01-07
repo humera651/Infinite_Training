@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\bin\Debug\IndexerOverloadingDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\bin\Debug\IndexerOverloadingDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\bin\Debug\IndexerOverloadingDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\obj\Debug\IndexerOverloadingDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\obj\Debug\IndexerOverloadingDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\obj\Debug\IndexerOverloadingDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\obj\Debug\IndexerOverloadingDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerOverloadingDemo\obj\Debug\IndexerOverloadingDemo.exe.config

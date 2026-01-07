@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\bin\Debug\DIPDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\bin\Debug\DIPDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\bin\Debug\DIPDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\obj\Debug\DIPDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\obj\Debug\DIPDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\obj\Debug\DIPDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\obj\Debug\DIPDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DIPDemo\obj\Debug\DIPDemo.exe.config

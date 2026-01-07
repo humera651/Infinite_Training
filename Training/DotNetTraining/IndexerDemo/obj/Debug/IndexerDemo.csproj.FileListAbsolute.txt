@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\bin\Debug\IndexerDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\bin\Debug\IndexerDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\bin\Debug\IndexerDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\obj\Debug\IndexerDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\obj\Debug\IndexerDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\obj\Debug\IndexerDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\obj\Debug\IndexerDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\IndexerDemo\obj\Debug\IndexerDemo.exe.config

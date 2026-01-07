@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\bin\Debug\CollectionsDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\obj\Debug\CollectionsDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\CollectionsDemo\obj\Debug\CollectionsDemo.exe.config

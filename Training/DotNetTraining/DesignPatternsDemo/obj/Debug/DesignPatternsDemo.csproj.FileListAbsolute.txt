@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\bin\Debug\DesignPatternsDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\DesignPatternsDemo\obj\Debug\DesignPatternsDemo.exe.config

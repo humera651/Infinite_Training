@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe.config

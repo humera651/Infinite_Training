@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\bin\Debug\JaggedArray.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\bin\Debug\JaggedArray.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\bin\Debug\JaggedArray.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\obj\Debug\JaggedArray.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\obj\Debug\JaggedArray.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\obj\Debug\JaggedArray.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\obj\Debug\JaggedArray.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\JaggedArray\obj\Debug\JaggedArray.exe.config

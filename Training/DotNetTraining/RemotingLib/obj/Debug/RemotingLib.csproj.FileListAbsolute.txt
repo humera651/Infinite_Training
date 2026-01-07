@@ -1,9 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\bin\Debug\RemotingLib.dll
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\bin\Debug\RemotingLib.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\bin\Debug\RemotingTrn.dll
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\bin\Debug\RemotingTrn.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\obj\Debug\RemotingLib.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\obj\Debug\RemotingLib.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\obj\Debug\Remoting.F9DF2369.Up2Date
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\obj\Debug\RemotingLib.dll
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\RemotingLib\obj\Debug\RemotingLib.pdb

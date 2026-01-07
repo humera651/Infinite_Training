@@ -1,7 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LSPDemo\bin\Debug\LSPDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LSPDemo\bin\Debug\LSPDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LSPDemo\bin\Debug\LSPDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LSPDemo\obj\Debug\LSPDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LSPDemo\obj\Debug\LSPDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LSPDemo\obj\Debug\LSPDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\LSPDemo\obj\Debug\LSPDemo.pdb

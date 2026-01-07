@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\bin\Debug\StaticClassDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\obj\Debug\StaticClassDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\obj\Debug\StaticClassDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\StaticClassDemo\obj\Debug\StaticClassDemo.exe.config

@@ -1,7 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Loops\bin\Debug\Loops.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Loops\bin\Debug\Loops.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Loops\bin\Debug\Loops.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Loops\obj\Debug\Loops.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Loops\obj\Debug\Loops.pdb

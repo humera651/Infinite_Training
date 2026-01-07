@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\bin\Debug\adonetdemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\bin\Debug\adonetdemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\bin\Debug\adonetdemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\obj\Debug\adonetdemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\obj\Debug\adonetdemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\obj\Debug\adonetdemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\obj\Debug\adonetdemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\adonetdemo\obj\Debug\adonetdemo.exe.config

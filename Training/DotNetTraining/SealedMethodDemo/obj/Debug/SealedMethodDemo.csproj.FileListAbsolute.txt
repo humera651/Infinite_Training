@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\bin\Debug\SealedMethodDemo.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\bin\Debug\SealedMethodDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\bin\Debug\SealedMethodDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\obj\Debug\SealedMethodDemo.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\obj\Debug\SealedMethodDemo.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\obj\Debug\SealedMethodDemo.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\obj\Debug\SealedMethodDemo.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\SealedMethodDemo\obj\Debug\SealedMethodDemo.exe.config

@@ -1,8 +1,0 @@
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\bin\Debug\Struct_n_Enums.exe.config
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\bin\Debug\Struct_n_Enums.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\bin\Debug\Struct_n_Enums.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\obj\Debug\Struct_n_Enums.csproj.AssemblyReference.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\obj\Debug\Struct_n_Enums.csproj.CoreCompileInputs.cache
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\obj\Debug\Struct_n_Enums.exe
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\obj\Debug\Struct_n_Enums.pdb
-C:\Users\humeras\Infinite_Training\Training\DotNetTraining\Struct_n_Enums\obj\Debug\Struct_n_Enums.exe.config
