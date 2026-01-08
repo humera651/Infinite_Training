@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|c:\\users\\humeras\\infinite_training\\mvc\\assignment\\assignment1\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:repository\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:repository\\icontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:models\\contactcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02C20085-205A-4231-85EE-F346F625ABEF}|Assignment1.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Repository\\IContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IContactRepository.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Repository\\IContactRepository.cs",
+              "RelativeToolTip": "Repository\\IContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:53:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Views\\Contact\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Views\\Contact\\Create.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T16:19:14.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwDgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:09:18.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T16:15:44.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Views\\Contact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Views\\Contact\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Delete.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T17:07:24.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-07T16:03:05.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Repository\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ContactRepository.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Repository\\ContactRepository.cs",
+              "RelativeToolTip": "Repository\\ContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:56:12.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactContext.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Models\\ContactContext.cs",
+              "RelativeDocumentMoniker": "Models\\ContactContext.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Models\\ContactContext.cs",
+              "RelativeToolTip": "Models\\ContactContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:38:55.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\MVC\\Assignment\\Assignment1\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T15:48:32.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

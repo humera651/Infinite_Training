@@ -1,0 +1,85 @@
+﻿@model Assignment1.Models.Contact
+@{
+    ViewBag.Title = "Create";
+}
+
+<style>
+
+    h2 {
+        margin-bottom: 20px;
+        color: darkslategray;
+        text-align: center;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        max-width:270px;
+    }
+
+    label {
+        margin-top: 12px;
+        margin-bottom: 5px;
+        font-weight: 600;
+    }
+
+    input[type="text"] {
+        padding: 8px;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        font-size: 14px;
+    }
+
+        input[type="text"]:focus {
+            outline: none;
+            border-color: dodgerblue;
+        }
+
+    button {
+        margin-top: 20px;
+        padding: 10px;
+        background-color: dodgerblue;
+        color: white;
+        border: none;
+        border-radius: 6px;
+        font-size: 15px;
+        font-weight: 500;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: royalblue;
+        }
+    .hyperlinkcls {
+        padding: 8px 16px;
+        background-color: lightgray;
+        color: black;
+        text-decoration: none;
+        border-radius: 6px;
+        font-size: 14px;
+        margin-top:5px;
+    }
+
+        .hyperlinkcls:hover {
+            background-color: gray;
+            color: white;
+        }
+</style>
+
+    <h2>Create Contact</h2>
+
+    <form method="post">
+        <label>First Name</label>
+        @Html.TextBoxFor(m => m.FirstName)
+
+        <label>Last Name</label>
+        @Html.TextBoxFor(m => m.LastName)
+
+        <label>Email</label>
+        @Html.TextBoxFor(m => m.Email)
+
+        <button type="submit">Save</button>
+        <div class="hyperlinkcls">
+            <a href="@Url.Action("Index")">No, Go Back</a>
+        </div>
+    </form>

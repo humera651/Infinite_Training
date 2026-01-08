@@ -1,0 +1,94 @@
+﻿@model IEnumerable<Assignment1.Models.Contact>
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    h2 {
+        margin-bottom: 20px;
+        color: darkslategray;
+    }
+
+    .create-btn {
+        display: inline-block;
+        margin-bottom: 20px;
+        padding: 10px 18px;
+        background-color: dodgerblue;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: 500;
+    }
+
+        .create-btn:hover {
+            background-color: royalblue;
+        }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border-radius: 8px;
+        overflow: hidden;
+    }
+
+    thead {
+        background-color: darkslateblue;
+    }
+
+        thead th {
+            padding: 12px;
+            color: white;
+            text-align: left;
+            font-weight: 600;
+        }
+
+    tbody tr {
+        border-bottom: 1px solid lightgray;
+    }
+
+        tbody tr:hover {
+            background-color: aliceblue;
+        }
+
+    tbody td {
+        padding: 12px;
+    }
+
+    .delete-link {
+        color: crimson;
+        text-decoration: none;
+        font-weight: 500;
+    }
+
+        .delete-link:hover {
+            text-decoration: underline;
+        }
+</style>
+
+<h2>Contacts</h2>
+
+@Html.ActionLink("Create", "Create", null, new { @class = "create-btn" })
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.FirstName @c.LastName</td>
+                <td>@c.Email</td>
+                <td>
+                    <a class="delete-link" href="@Url.Action("Delete", new { id = c.Id })">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
