@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Week8_CodingTest2.Models.Movies>
+@{
+    ViewBag.Title = "MovieByDirector";
+}
+
+<h2>Movie By Director</h2>
+@foreach (var m in Model)
+{
+    <p>@m.Moviename (@m.DirectorName)</p>
+}
+

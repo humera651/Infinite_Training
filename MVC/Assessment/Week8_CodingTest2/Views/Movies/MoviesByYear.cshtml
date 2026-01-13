@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Week8_CodingTest2.Models.Movies>
+@{
+    ViewBag.Title = "MoviesByYear";
+}
+<h2>Movies by Year</h2>
+
+@foreach (var m in Model)
+{
+    <p>@m.Moviename - @m.DateofRelease.Year</p>
+}
+

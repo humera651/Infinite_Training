@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Week8_CodingTest2.Models.Movies>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>All Movies</h2>
+
+<a href="/Movies/Create">Add New Movie</a>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Director</th>
+        <th>Release Date</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var m in Model)
+    {
+        <tr>
+            <td>@m.Moviename</td>
+            <td>@m.DirectorName</td>
+            <td>@m.DateofRelease.ToShortDateString()</td>
+            <td>
+                <a href="/Movies/Edit/@m.Mid">Edit</a> |
+                <a href="/Movies/Delete/@m.Mid">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,17 @@
+﻿@model Week8_CodingTest2.Models.Movies
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Movie</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(m => m.Mid)
+
+    <p>Movie Name: @Html.TextBoxFor(m => m.Moviename)</p>
+    <p>Director Name: @Html.TextBoxFor(m => m.DirectorName)</p>
+    <p>Release Date: @Html.TextBoxFor(m => m.DateofRelease, "{0:yyyy-MM-dd}", new { type = "date" })</p>
+
+    <input type="submit" value="Update" />
+}
