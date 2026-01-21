@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_Client2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{001BCD37-D005-4588-AE96-D5B34C379FFB}|Week9_CodingTest_Client2.csproj|c:\\users\\humeras\\infinite_training\\web api\\assessment\\week9_codingtest_client2\\controllers\\empordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001BCD37-D005-4588-AE96-D5B34C379FFB}|Week9_CodingTest_Client2.csproj|solutionrelative:controllers\\empordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001BCD37-D005-4588-AE96-D5B34C379FFB}|Week9_CodingTest_Client2.csproj|c:\\users\\humeras\\infinite_training\\web api\\assessment\\week9_codingtest_client2\\views\\emporder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{001BCD37-D005-4588-AE96-D5B34C379FFB}|Week9_CodingTest_Client2.csproj|solutionrelative:views\\emporder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{001BCD37-D005-4588-AE96-D5B34C379FFB}|Week9_CodingTest_Client2.csproj|c:\\users\\humeras\\infinite_training\\web api\\assessment\\week9_codingtest_client2\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{001BCD37-D005-4588-AE96-D5B34C379FFB}|Week9_CodingTest_Client2.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_Client2\\Views\\EmpOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmpOrder\\Index.cshtml",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_Client2\\Views\\EmpOrder\\Index.cshtml",
+              "RelativeToolTip": "Views\\EmpOrder\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T05:49:15.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_Client2\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_Client2\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:47:43.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_Client2\\Controllers\\EmpOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpOrderController.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_Client2\\Controllers\\EmpOrderController.cs",
+              "RelativeToolTip": "Controllers\\EmpOrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:41:08.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

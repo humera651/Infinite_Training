@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_WebApi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9414CA-A220-4D52-98D9-1EDEC87CFDBA}|Week9_CodingTest_WebApi2.csproj|c:\\users\\humeras\\infinite_training\\web api\\assessment\\week9_codingtest_webapi2\\controllers\\empcustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9414CA-A220-4D52-98D9-1EDEC87CFDBA}|Week9_CodingTest_WebApi2.csproj|solutionrelative:controllers\\empcustcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9414CA-A220-4D52-98D9-1EDEC87CFDBA}|Week9_CodingTest_WebApi2.csproj|C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_WebApi2\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9414CA-A220-4D52-98D9-1EDEC87CFDBA}|Week9_CodingTest_WebApi2.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_WebApi2\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_WebApi2\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:16:42.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpCustController.cs",
+              "DocumentMoniker": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_WebApi2\\Controllers\\EmpCustController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpCustController.cs",
+              "ToolTip": "C:\\Users\\humeras\\Infinite_Training\\Web Api\\Assessment\\Week9_CodingTest_WebApi2\\Controllers\\EmpCustController.cs",
+              "RelativeToolTip": "Controllers\\EmpCustController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:11:57.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
